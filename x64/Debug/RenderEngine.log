@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\liamw\OneDrive\Documents\OpenGLApplication\main.cpp(29,40): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  RenderEngine.vcxproj -> C:\Users\liamw\OneDrive\Documents\OpenGLApplication\x64\Debug\RenderEngine.exe
