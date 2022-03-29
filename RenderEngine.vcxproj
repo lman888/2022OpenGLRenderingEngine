@@ -168,6 +168,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Dependencies\GLFW\lib-vc2022\glfw3.dll" />
+    <None Include="res\shaders\Basic.shader" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
